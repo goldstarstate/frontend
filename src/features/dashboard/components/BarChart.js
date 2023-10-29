@@ -23,7 +23,6 @@ ChartJS.register(
 
 function BarChart({ chartYaxisName, array, xAxisLabels }) {
   const [chartData, setChartData] = useState(null);
-  console.log(array);
 
   // Calculate total salaries by day and zone
   useEffect(() => {

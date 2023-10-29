@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "1.0.0",
   "description": "",
-  "proxy": "https://coral-bighorn-sheep-ring.cyclic.cloud",
+  "proxy": "https://puce-enchanting-leopard.cyclic.app",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
